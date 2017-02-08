@@ -1,0 +1,12 @@
+<?php  
+/*Print:
+ *É uma função que imprime uma string no console.
+ *Exemplo: print('abc)
+ */
+print('olá saída');
+print("olá saída");
+print('olá \n saída');
+print("olá \n saída");
+$sobremone='Patronímio';
+print($sobremone);
+?>
