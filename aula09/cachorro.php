@@ -21,7 +21,7 @@ class Cachorro
 			}
 			else
 			{
-				echo "Dado 'Svalor', não atribuido à '$propriedade'\n";
+				echo "Dado '$valor', não atribuido à '$propriedade'\n";
 			}
 		}
 		else
